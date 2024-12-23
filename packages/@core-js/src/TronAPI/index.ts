@@ -1,1 +1,0 @@
-export { TronAPI } from './TronAPI';
